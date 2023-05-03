@@ -1,4 +1,4 @@
-<html lang="es-PE">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <title>Suscripciones Lista</title>
